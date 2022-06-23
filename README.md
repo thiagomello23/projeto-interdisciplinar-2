@@ -22,5 +22,6 @@ CREATE TABLE itens(
     item_status VARCHAR(25) NOT NULL,
     item_desc VARCHAR(300),
     item_path VARCHAR(255),
-    id_registro INT(10) UNSIGNED
+    id_registro INT(11),
+    FOREIGN KEY (id_registro) REFERENCES registros(id)
 );
