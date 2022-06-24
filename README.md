@@ -1,4 +1,6 @@
 
+Projeto de faculdade do segundo semestre
+
 Para a utilização do projeto deve-se recriar o banco
 
 Comandos para recriar o banco: 
