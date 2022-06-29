@@ -1,6 +1,10 @@
 
 Projeto de faculdade do segundo semestre
 
+Um site voltado para colecionadores com o objetivo de cadastrar itens para os mesmos,
+após o usuario criar uma conta ele poderá cadastrar um novo item e vizualiza-lo 
+na aba de coleção, também é possivel modificar o perfil e os itens cadastrados.
+
 Para a utilização do projeto deve-se recriar o banco
 
 Comandos para recriar o banco: 
